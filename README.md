@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @margahedoromero
-- 🌱 I’m currently learning Streamlit
+- 🌱 I’m currently learning PowerBI
